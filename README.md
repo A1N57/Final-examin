@@ -5,7 +5,7 @@
 
 ## Как использовать
 
-1. Клонируйте репозиторий: https://github.com/A1N57/final-examination.git
+1. Клонируйте репозиторий: https://github.com/A1N57/Final-examin.git
 2. Откройте проект в вашей среде разработки (например, Visual Studio).
 
 3. Запустите программу.
