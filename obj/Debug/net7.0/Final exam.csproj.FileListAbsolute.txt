@@ -1,0 +1,14 @@
+C:\Users\Алексей\Desktop\Final exam\bin\Debug\net7.0\Final exam.exe
+C:\Users\Алексей\Desktop\Final exam\bin\Debug\net7.0\Final exam.deps.json
+C:\Users\Алексей\Desktop\Final exam\bin\Debug\net7.0\Final exam.runtimeconfig.json
+C:\Users\Алексей\Desktop\Final exam\bin\Debug\net7.0\Final exam.dll
+C:\Users\Алексей\Desktop\Final exam\bin\Debug\net7.0\Final exam.pdb
+C:\Users\Алексей\Desktop\Final exam\obj\Debug\net7.0\Final exam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Алексей\Desktop\Final exam\obj\Debug\net7.0\Final exam.AssemblyInfoInputs.cache
+C:\Users\Алексей\Desktop\Final exam\obj\Debug\net7.0\Final exam.AssemblyInfo.cs
+C:\Users\Алексей\Desktop\Final exam\obj\Debug\net7.0\Final exam.csproj.CoreCompileInputs.cache
+C:\Users\Алексей\Desktop\Final exam\obj\Debug\net7.0\Final exam.dll
+C:\Users\Алексей\Desktop\Final exam\obj\Debug\net7.0\refint\Final exam.dll
+C:\Users\Алексей\Desktop\Final exam\obj\Debug\net7.0\Final exam.pdb
+C:\Users\Алексей\Desktop\Final exam\obj\Debug\net7.0\Final exam.genruntimeconfig.cache
+C:\Users\Алексей\Desktop\Final exam\obj\Debug\net7.0\ref\Final exam.dll
